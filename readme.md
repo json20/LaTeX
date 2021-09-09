@@ -1,4 +1,5 @@
-# Repo for all LaTeX guides and templates
+# Collection of LaTeX guides and templates
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 1. LaTeX usrguide.pdf - beginner guide to latex
 2. Latex Beginners.pdf - another beginner guide to latex
 3. LatexAndSymLogic_AnIntroduction.pdf - a latex guide introducing Symbolic symbols/Discrete math notation
