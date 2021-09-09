@@ -9,4 +9,4 @@
 7. latex-intro.pdf - intro guide
 8. latex-introduction.pdf - 1 page description of latex
 9. short-math-guide.pdf - How to typeset Math in Latex - by the American Mathematical Society
-
+10. TexShop tips and tricks
